@@ -1,6 +1,7 @@
 # 🚀 Film Hall Ticket Booking System 
 
-![image](https://github.com/HiruAmarajeewa/Film-Hall-Booking-System/assets/142741031/5ec794ca-6445-44b3-b49e-596cc6c961dd)
+![image](https://github.com/HiruAmarajeewa/Film-Hall-Ticket-Booking-System/assets/142741031/495afe99-2094-4751-8ed5-63ef1fb191ee)
+
 
 Welcome to the Auxave Website Development project by AAA Solutions! This GitHub repository contains all the resources and code for creating a professional and user-friendly website for Auxave Pvt Ltd. Our goal is to enhance Auxave's online presence, effectively communicate its services, and contribute to lead generation and business growth.
 
@@ -59,5 +60,5 @@ We, at AAA Solutions, are excited about the opportunity to work with Auxave on t
 ## 🚀 Installation
 
 ```bash
-
+https://github.com/HiruAmarajeewa/Film-Hall-Ticket-Booking-System.git
 ```
