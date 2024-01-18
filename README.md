@@ -57,6 +57,8 @@ The estimated budget for the website development is $600, covering design, devel
 
 We, at AAA Solutions, are excited about the opportunity to work with Auxave on this project. Our experienced team is dedicated to delivering a high-quality website that meets Auxave's goals. We look forward to creating a valuable asset that effectively communicates Auxave's brand and capabilities.
 
+## 🤝 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
 ## 🚀 Installation
 
 ```bash
